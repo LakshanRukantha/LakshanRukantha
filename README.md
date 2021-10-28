@@ -19,6 +19,6 @@
 
 <h2 align="center">Most Used Languages</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanrukantha&theme=chartreuse-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanrukantha&layout=compact&hide_border=true&theme=chartreuse-dark)
 
 Last edit on 27th October 2021
