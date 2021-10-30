@@ -39,4 +39,7 @@
 
 </div>
 
-Last edit on 30th October 2021
+![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
+
+
+![Last Update](https://badges.pufler.dev/updated/lakshanrukantha/lakshanrukantha)
