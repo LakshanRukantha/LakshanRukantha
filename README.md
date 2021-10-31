@@ -39,6 +39,12 @@
 
 </div>
 
+<h2 align="center">Follow me on,</h2>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/LakshanRukantha?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/LakshanRukantha?style=social)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
 
 
