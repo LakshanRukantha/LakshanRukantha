@@ -41,7 +41,7 @@
 
 <h2 align="center">Follow me on,</h2>
 
-<a href="https://twitter.com/LakshanRukantha">
+<a href="https://twitter.com/LakshanRukantha" action="_blank">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/LakshanRukantha?style=social)
 
