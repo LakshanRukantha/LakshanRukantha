@@ -41,9 +41,17 @@
 
 <h2 align="center">Follow me on,</h2>
 
+<a href="https://twitter.com/LakshanRukantha">
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/LakshanRukantha?style=social)
 
+</a>
+
+<a href="https://github.com/LakshanRukantha/LakshanRukantha" action="_blank">
+
 ![GitHub followers](https://img.shields.io/github/followers/LakshanRukantha?style=social)
+
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
 
