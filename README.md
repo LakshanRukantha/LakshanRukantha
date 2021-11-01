@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="center" style="height:180px" src="https://res.cloudinary.com/ddnv9dswe/image/upload/v1635613646/20211030_223511_aaj48q.png">
+<img align="center" style="height:150px" src="https://res.cloudinary.com/ddnv9dswe/image/upload/v1635613646/20211030_223511_aaj48q.png">
 
 </div>
 
