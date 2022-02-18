@@ -4,7 +4,7 @@
 
 </div>
 
-# <p align="center">Hi there 👋 It's me, Lakshan Rukantha</p>
+# <p align="center">Hi there! 👋 It's me, Lakshan Rukantha</p>
 
 - 🔭 I’m currently working on my higher studies.
 - 🌱 I’m currently learning everything.
