@@ -47,12 +47,6 @@
 
 </a>
 
-<a href="https://github.com/LakshanRukantha/LakshanRukantha">
-
-![GitHub followers](https://img.shields.io/github/followers/LakshanRukantha?style=social)
-
-</a>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
 
 
