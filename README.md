@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on anyone.
 - 🤔 I’m looking for help with learning new tech related things.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [Lakshan Rukantha](https://wa.link/ju9vjb)
+- 📫 How to reach me: [Lakshan Rukantha](https://t.me/lakshanrukantha)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
