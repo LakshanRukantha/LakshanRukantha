@@ -49,5 +49,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
 
-
-![Last Update](https://badges.pufler.dev/updated/lakshanrukantha/lakshanrukantha)
