@@ -52,9 +52,9 @@ First Website : [Lakshan Rukantha](https://lakshan-online.web.app)
 
 <a href="https://twitter.com/LakshanRukantha">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/LakshanRukantha?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/lakshanrukantha?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)
 
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
+![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha&color=68d372&style=for-the-badge)
 
