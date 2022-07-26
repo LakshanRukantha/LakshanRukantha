@@ -56,5 +56,6 @@ First Website : [Lakshan Rukantha](https://lakshan-online.web.app)
 
 </a>
 <hr/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha&color=68d372&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lakshanrukantha/lakshanrukantha.github.io)
