@@ -55,6 +55,6 @@ First Website : [Lakshan Rukantha](https://lakshan-online.web.app)
 ![Twitter Follow](https://img.shields.io/twitter/follow/lakshanrukantha?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)
 
 </a>
-
+<hr/>
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha&color=68d372&style=for-the-badge)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/lakshanrukantha/lakshanrukantha.github.io)
