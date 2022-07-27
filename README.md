@@ -40,7 +40,10 @@
 </div>
 <h2 align="center">My Projects</h2>
 
-<div align="center">
+<div align="left">
+
+Personal Website : [Lakshan Rukantha](https://lakshanrukantha.github.io)
+
 
 Cake Days : [![Netlify Status](https://api.netlify.com/api/v1/badges/fb094c4d-9bff-4e97-8a21-7e31e1d6b053/deploy-status)](https://app.netlify.com/sites/cakedaysnsbm/deploys)
   
