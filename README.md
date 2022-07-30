@@ -6,8 +6,8 @@
 
 # <p align="center">Hi there! 👋 It's me, Lakshan Rukantha</p>
 
-- 🔭 I’m currently working on my higher studies.
-- 🌱 I’m currently learning everything.
+- 🔭 I’m currently working on my personal projects.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on anyone.
 - 🤔 I’m looking for help with learning new tech related things.
 - 💬 Ask me about anything.
