@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on anyone.
-- 🤔 I’m looking for help with learning new tech related things.
+- 🤔 I’m looking for help with learning new things.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Lakshan Rukantha](https://t.me/lakshanrukantha)
 <!-- - 😄 Pronouns: ...
