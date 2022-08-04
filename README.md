@@ -6,14 +6,19 @@
 
 # <p align="center">Hi there! 👋 It's me, Lakshan Rukantha</p>
 
-- 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on anyone.
-- 🤔 I’m looking for help with learning new things.
-- 💬 Ask me about anything.
-- 📫 How to reach me: [Lakshan Rukantha](https://t.me/lakshanrukantha)
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<div align="center">
+
+Q | A
+--- | --- 
+**My Machine**  | `Asus Vivobook - Ryzen 7`
+**Editor**  | `Visual Studio Code, CodeBlocks`
+**Platforms I Develop For** | `Web, Mobile`
+**Familier With**  | `HTML5, CSS3, JavaScript, React, Python`
+**Languages I learning** | `C, Dart`
+**2022 Learning Goal** | `Flutter, React`
+**Skills**  | `UI/UX, Web Application, Front-End Development`
+
+</div>
 
 <h2 align="center">GitHub Streak</h2>
 
