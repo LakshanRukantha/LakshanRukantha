@@ -15,8 +15,8 @@ Q | A
 **Platforms I Develop For** | `Web, Mobile`
 **Familier With**  | `HTML5, CSS3, JavaScript, React, Python`
 **Languages I learning** | `C, Dart`
-**2022 Learning Goal** | `Flutter, React`
-**Skills**  | `UI/UX, Web Application, Front-End Development`
+**2022 Learning Goal** | `Flutter`
+**Skills**  | `UI/UX, Web Application Development, Front-End Development`
 
 </div>
 
