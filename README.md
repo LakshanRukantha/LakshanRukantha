@@ -59,7 +59,7 @@ First Website : [Lakshan Rukantha](https://lakshan-online.web.app)
 
 <a href="https://twitter.com/LakshanRukantha">
 
-![Twitter Test](https://img.shields.io/twitter/follow/lakshanrukantha?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/lakshanrukantha?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)
 
 </a>
 <hr/>
