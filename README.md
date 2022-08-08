@@ -43,6 +43,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanrukantha&layout=compact&hide_border=true&theme=chartreuse-dark)
 
 </div>
+
 <h2 align="center">My Projects</h2>
 
 <div align="left">
