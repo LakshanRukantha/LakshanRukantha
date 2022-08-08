@@ -8,15 +8,15 @@
 
 <div align="center">
 
-Q | A
---- | --- 
-**My Machine**  | `Asus Vivobook - Ryzen 7`
-**Editor**  | `Visual Studio Code, CodeBlocks`
-**Platforms I Develop For** | `Web, Mobile, CLI`
-**Familier With**  | `HTML5, CSS3, JavaScript, React, Python`
-**Languages I Learning** | `C, Dart`
-**2022 Learning Goal** | `Flutter`
-**Skills**  | `UI/UX, Web Application Development`
+| Q                           | A                                        |
+| --------------------------- | ---------------------------------------- |
+| **My Machine**              | `Asus Vivobook - Ryzen 7`                |
+| **Editor**                  | `Visual Studio Code, CodeBlocks`         |
+| **Platforms I Develop For** | `Web, Mobile, CLI`                       |
+| **Familier With**           | `HTML5, CSS3, JavaScript, React, Python` |
+| **Languages I Learning**    | `C, Dart`                                |
+| **2022 Learning Goal**      | `Flutter`                                |
+| **Skills**                  | `UI/UX, Web Application Development`     |
 
 </div>
 
@@ -64,5 +64,5 @@ First Website : [Lakshan Rukantha](https://lakshan-online.web.app)
 </a>
 <hr/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha&color=68d372&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lakshanrukantha/LakshanRukantha)
