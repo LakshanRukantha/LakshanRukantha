@@ -12,11 +12,11 @@ Q | A
 --- | --- 
 **My Machine**  | `Asus Vivobook - Ryzen 7`
 **Editor**  | `Visual Studio Code, CodeBlocks`
-**Platforms I Develop For** | `Web, Mobile`
+**Platforms I Develop For** | `Web, Mobile, CLI`
 **Familier With**  | `HTML5, CSS3, JavaScript, React, Python`
-**Languages I learning** | `C, Dart`
+**Languages I Learning** | `C, Dart`
 **2022 Learning Goal** | `Flutter`
-**Skills**  | `UI/UX, Web Application Development, Front-End Development`
+**Skills**  | `UI/UX, Web Application Development`
 
 </div>
 
