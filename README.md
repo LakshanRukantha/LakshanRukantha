@@ -16,7 +16,7 @@
 | **Familier With**           | `HTML5, CSS3, JavaScript, React, Python` |
 | **Languages I Learning**    | `C, Dart`                                |
 | **2022 Learning Goal**      | `Flutter`                                |
-| **Skills**                  | `UI/UX, Web Application Development`     |
+| **Skills**                  | `Web Application Development, UI/UX`     |
 
 </div>
 
