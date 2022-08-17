@@ -71,6 +71,15 @@ First Website : [Lakshan Rukantha](https://lakshan-online.web.app)
 ![Twitter Follow](https://img.shields.io/twitter/follow/lakshanrukantha?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)
 
 </a>
+
+<h2 align="center">Random Dev Quote</h2>
+
+<div align="center">
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
+
+</div>
+
 <hr/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanrukantha)
