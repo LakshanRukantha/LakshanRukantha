@@ -17,7 +17,7 @@
 | Q                           | A                                        |
 | --------------------------- | ---------------------------------------- |
 | **My Machine**              | `Asus Vivobook - Ryzen 7`                |
-| **Editor**                  | `Visual Studio Code`                    |
+| **Editor**                  | `Visual Studio Code`                     |
 | **Platforms I Develop For** | `Web, Mobile, CLI`                       |
 | **Familier With**           | `HTML5, CSS3, JavaScript, React, Python` |
 | **Languages I Learning**    | `C, Dart`                                |
