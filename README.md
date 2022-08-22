@@ -51,9 +51,14 @@
 
 - [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
 
+<details>
+<summary>View More</summary>
+
 - [Cake Days](https://cakedaysnsbm.netlify.app/) (Birthdays management web application.)
 
 - [Lakshan Rukantha](https://lakshan-online.web.app) (First Website)
+
+</details>
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
