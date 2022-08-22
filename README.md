@@ -45,17 +45,15 @@
 <!-- My Projects -->
 ## 🧩 My Projects
 
-<div align="left">
+- [PassGen](https://github.com/LakshanRukantha/PassGen) (Random passwords generating CLI tool.)
 
-Personal Website : [Lakshan Rukantha](https://lakshanrukantha.github.io)
+- [Lakshan Rukantha](https://lakshanrukantha.github.io) (Personal Website)
 
-CutLink : [CutLink](https://cut-link.netlify.app/)
+- [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
 
-Cake Days : [Cake Days](https://cakedaysnsbm.netlify.app/)
+- [Cake Days](https://cakedaysnsbm.netlify.app/) (Birthdays management web application.)
 
-First Website : [Lakshan Rukantha](https://lakshan-online.web.app)
-
-</div>
+- [Lakshan Rukantha](https://lakshan-online.web.app) (First Website)
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
