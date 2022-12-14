@@ -56,7 +56,7 @@
 
 - [Cake Days](https://cakedaysnsbm.netlify.app/) (Birthdays management web application.)
 
-- [Lakshan Rukantha](https://lakshan-online.web.app) (First Website)
+- [Lakshan Rukantha](https://lakshan-online.web.app) (Old Portfolio)
 
 </details>
 
