@@ -21,7 +21,7 @@
 | **Platforms I Develop For** | `Web, Mobile, CLI`                       |
 | **Familier With**           | `HTML5, CSS3, JavaScript, React, Python` |
 | **Languages I Learning**    | `C, Dart`                                |
-| **2022 Learning Goal**      | `React Native, Flutter`                                |
+| **2023 Learning Goal**      | `NodeJS, MongoDB`                                |
 | **Skills**                  | `Web Application Development, UI/UX`     |
 
 </div>
