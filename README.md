@@ -19,9 +19,9 @@
 | **My Machine**              | `Asus Vivobook - Ryzen 7`                |
 | **Editor**                  | `Visual Studio Code`                     |
 | **Platforms I Develop For** | `Web, Mobile, CLI`                       |
-| **Familier With**           | `HTML5, CSS3, JavaScript, React, Python` |
-| **Languages I Learning**    | `C, Dart`                                |
-| **2023 Learning Goal**      | `NodeJS, MongoDB`                                |
+| **Familier With**           | `JavaScript, React, Python, C, HTML5, CSS3` |
+| **Languages I Learning**    | `C, TypeScript`                                |
+| **2023 Learning Goal**      | `NodeJS, MongoDB, C, TypeScript`                                |
 | **Skills**                  | `Web Application Development, UI/UX`     |
 
 </div>
