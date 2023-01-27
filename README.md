@@ -51,6 +51,8 @@
 <!-- My Projects -->
 ## 🧩 My Projects
 
+- [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
+
 - [PassGen](https://github.com/LakshanRukantha/PassGen) (Random passwords generating CLI tool.)
 
 - [Lakshan Rukantha](https://lakshanrukantha.github.io) (Personal Website)
