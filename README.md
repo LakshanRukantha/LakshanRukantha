@@ -51,6 +51,8 @@
 <!-- My Projects -->
 ## 🧩 My Projects
 
+- [QRCodeX](https://qrcodex.netlify.com/) (QR Code scanner and generator.)
+
 - [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
 
 - [PassGen](https://github.com/LakshanRukantha/PassGen) (Random passwords generating CLI tool.)
