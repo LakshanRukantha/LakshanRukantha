@@ -53,7 +53,7 @@
 
 - [QRCodeX](https://qrcodex.netlify.com/) (QR Code scanner and generator.)
 
-- [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
+- [MindMate](https://mind-mate.vercel.app/) (AI powered mental health support.)
 
 - [PassGen](https://github.com/LakshanRukantha/PassGen) (Random passwords generating CLI tool.)
 
@@ -63,6 +63,8 @@
 
 <details>
 <summary>View More</summary>
+  
+- [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
 
 - [TaskHub](https://taskhub-online.netlify.app/) (Tasks management web application.)
 
