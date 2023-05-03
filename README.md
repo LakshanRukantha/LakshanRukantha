@@ -84,6 +84,10 @@
 
 <hr/>
 
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=3124fpyq7tuttbe6xahvgfyjamku&count=1)
+
+<hr/>
+
 <!-- Random Dev Quote -->
 ### ✍️ Random Dev Quote
 
