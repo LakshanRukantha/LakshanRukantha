@@ -51,13 +51,13 @@
 <!-- My Projects -->
 ## 🧩 My Projects
 
+- [API Of Blockchains](https://api-of-blockchains.vercel.app/) (Sample project using typescript and tailwind css.)
+
 - [QRCodeX](https://qrcodex.netlify.com/) (QR Code scanner and generator.)
 
 - [MindMate](https://mind-mate.vercel.app/) (AI powered mental health support.)
 
 - [PassGen](https://github.com/LakshanRukantha/PassGen) (Random passwords generating CLI tool.)
-
-- [Lakshan Rukantha](https://lakshanrukantha.github.io) (Personal Website)
 
 - [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
 
