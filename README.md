@@ -51,6 +51,8 @@
 <!-- My Projects -->
 ## 🧩 My Projects
 
+- [GitTrack](https://gittrack.vercel.app/) (Find who does not follow you on github.)
+
 - [API Of Blockchains](https://api-of-blockchains.vercel.app/) (Sample project using typescript and tailwind css.)
 
 - [QRCodeX](https://qrcodex.netlify.com/) (QR Code scanner and generator.)
@@ -59,10 +61,10 @@
 
 - [PassGen](https://github.com/LakshanRukantha/PassGen) (Random passwords generating CLI tool.)
 
-- [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
-
 <details>
 <summary>View More</summary>
+  
+- [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
   
 - [WeatherCast](https://weathercast-pro.netlify.app/) (Realtime weather information web application.)
 
