@@ -51,6 +51,8 @@
 <!-- My Projects -->
 ## 🧩 My Projects
 
+- [CeylonJobSeeker](https://ceylonjobseeker.com) (Job listing portal.)
+
 - [GitTrack](https://gittrack.vercel.app/) (Find who does not follow you on github.)
 
 - [API Of Blockchains](https://api-of-blockchains.vercel.app/) (Sample project using typescript and tailwind css.)
