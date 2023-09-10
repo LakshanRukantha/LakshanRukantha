@@ -55,7 +55,7 @@ const myDetails = {
     writings: {
       name: "Blogs & Articles",
       description: "I enjoy writing on various tech topics.",
-      platforms: [
+      writing_platforms: [
         {
           name: "Medium",
           link: "https://medium.com/@lakshanrukantha"
