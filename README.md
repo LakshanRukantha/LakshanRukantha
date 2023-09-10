@@ -73,7 +73,9 @@ const myDetails = {
   }
 };
 
-console.log(myDetails.title, myDetails.data);
+console.log("Title:", myDetails.title);
+console.log("Info:", myDetails.info);
+console.log("Data:", myDetails.data);
 
 ```
 
