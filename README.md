@@ -14,15 +14,17 @@
 
 <div align="center">
 
-| Q                           | A                                        |
-| --------------------------- | ---------------------------------------- |
-| **My Machine**              | `Asus Vivobook - Ryzen 7`                |
-| **Editor**                  | `Visual Studio Code`                     |
-| **Platforms I Develop For** | `Web, Mobile, CLI`                       |
-| **Familier With**           | `JavaScript, React, Python, C, Next.js` |
-| **Languages I Learning**    | `C, TypeScript`                                |
-| **2023 Learning Goal**      | `NodeJS, MongoDB, C, TypeScript`                                |
-| **Skills**                  | `Web Application Development, UI/UX`     |
+| **Question**                | **Answer**                                | **Description**                           |
+| --------------------------- | ----------------------------------------- | ----------------------------------------- |
+| 💻&nbsp;**Machine**             | Asus Vivobook 15 - Ryzen 7                | My reliable development laptop.            |
+| 🖋️&nbsp;**Editor**              | Visual Studio Code                        | My preferred code editor for productivity. |
+| 🌐&nbsp;**Platforms**           | Web, Mobile, CLI                          | I specialise in developing for web, mobile applications, and command-line interfaces (CLIs). |
+| 🛠️&nbsp;**Top&nbsp;Tech&nbsp;Stacks**     | JavaScript, React, MongoDB, Next.js, HTML, CSS | Top key technologies for my projects.      |
+| 🚀&nbsp;**Learning&nbsp;Goal**| TypeScript                                | My 2023 learning focus.                    |
+| 🌟&nbsp;**Skills**              | Web Dev, UI/UX Design                     | My areas of expertise.                     |
+| 🗣️&nbsp;**Languages**           | English, Sinhala, Tamil                   | Languages I'm fluent in.                   |
+| 📝&nbsp;**Writing**             | Medium: [Lakshan Rukantha](https://medium.com/@lakshanrukantha) | My platform for sharing blogs and articles. |
+| 💆‍♂️&nbsp;**Hobbies**             | Programming, Travelling, Photography      | My favourite leisure activities.            |
 
 </div>
 
