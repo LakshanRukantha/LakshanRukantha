@@ -12,19 +12,70 @@
 
 </div>
 
-<div align="center">
+<div>
 
-| **Question**                | **Answer**                                | **Description**                           |
-| --------------------------- | ----------------------------------------- | ----------------------------------------- |
-| 💻&nbsp;**Machine**             | Asus Vivobook 15 - Ryzen 7                | My reliable development laptop.            |
-| 🖋️&nbsp;**Editor**              | Visual Studio Code                        | My preferred code editor for productivity. |
-| 🌐&nbsp;**Platforms**           | Web, Mobile, CLI                          | I specialise in developing for web, mobile applications, and command-line interfaces (CLIs). |
-| 🛠️&nbsp;**Top&nbsp;Tech&nbsp;Stacks**     | JavaScript, React, MongoDB, Next.js, HTML, CSS | Top key technologies for my projects.      |
-| 🚀&nbsp;**Learning&nbsp;Goal**| TypeScript                                | My 2023 learning focus.                    |
-| 🌟&nbsp;**Skills**              | Web Dev, UI/UX Design                     | My areas of expertise.                     |
-| 🗣️&nbsp;**Languages**           | English, Sinhala, Tamil                   | Languages I'm fluent in.                   |
-| 📝&nbsp;**Writing**             | Medium: [Lakshan Rukantha](https://medium.com/@lakshanrukantha) | My platform for sharing blogs and articles. |
-| 💆‍♂️&nbsp;**Hobbies**             | Programming, Travelling, Photography      | My favourite leisure activities.            |
+```typescript
+
+const myDetails = {
+  title: "My Profile Overview",
+  info: {
+    name: "Lakshan Rukantha",
+    university: "NSBM Green University",
+    degree: "BSc (Hons) In Software Engineering"
+  },
+  data: {
+    machine: {
+      name: "Asus Vivobook 15 - Ryzen 7",
+      description: "I explore the digital universe and compose code stories on this laptop."
+    },
+    editor: {
+      name: "Visual Studio Code",
+      description: "My preferred code editor for productivity."
+    },
+    platforms: {
+      name: "Web, Mobile, CLI",
+      description: "Crafting Software Solutions Across Web, Mobile, and CLI platforms."
+    },
+    top_tech_stacks: {
+      name: "JavaScript, React, MongoDB, Next.js, HTML, CSS",
+      description: "Top key technologies I use for most of my projects."
+    },
+    learning_goals: {
+      name: "TypeScript",
+      description: "My 2023 learning focus."
+    },
+    skills: {
+      name: "Web Application Development, UI/UX Design",
+      description: "My areas of expertise."
+    },
+    languages: {
+      name: "English, Sinhala, Tamil",
+      description: "Languages I'm fluent in."
+    },
+    writings: {
+      name: "Blogs & Articles",
+      description: "I enjoy writing on various tech topics.",
+      platforms: [
+        {
+          name: "Medium",
+          link: "https://medium.com/@lakshanrukantha"
+        },
+        {
+          name: "Dev.to",
+          link: "https://dev.to/lakshanrukantha"
+        }
+      ]
+    },
+    hobbies: {
+      name: "Programming, Travelling, Photography",
+      description: "My favorite leisure activities."
+    }
+  }
+};
+
+console.log(myDetails.title, myDetails.data);
+
+```
 
 </div>
 
