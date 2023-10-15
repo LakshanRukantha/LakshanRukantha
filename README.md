@@ -17,65 +17,28 @@
 ```typescript
 
 const myDetails = {
-  title: "My Profile Overview",
-  info: {
-    name: "Lakshan Rukantha",
-    university: "NSBM Green University",
-    degree: "BSc (Hons) In Software Engineering"
-  },
-  data: {
-    machine: {
-      name: "Asus Vivobook 15 - Ryzen 7",
-      description: "I explore the digital universe and compose code stories on this laptop."
+  title: "Lakshan Rukantha",
+  university: "NSBM Green University",
+  degree: "BSc (Hons) in Software Engineering",
+  machine: "Asus Vivobook 15 - Ryzen 7",
+  editor: "Visual Studio Code",
+  platforms: "Web, Mobile, CLI",
+  top_tech_stacks: "JavaScript, React, MongoDB, Next.js, HTML, CSS",
+  learning_goals: "TypeScript",
+  skills: "Web App Development, UI/UX Design",
+  languages: "English, Sinhala, Tamil",
+  writings: [
+    {
+      name: "Medium",
+      link: "https://medium.com/@lakshanrukantha"
     },
-    editor: {
-      name: "Visual Studio Code",
-      description: "My preferred code editor for productivity."
-    },
-    platforms: {
-      name: "Web, Mobile, CLI",
-      description: "Crafting Software Solutions Across Web, Mobile, and CLI platforms."
-    },
-    top_tech_stacks: {
-      name: "JavaScript, React, MongoDB, Next.js, HTML, CSS",
-      description: "Top key technologies I use for most of my projects."
-    },
-    learning_goals: {
-      name: "TypeScript",
-      description: "My 2023 learning focus."
-    },
-    skills: {
-      name: "Web Application Development, UI/UX Design",
-      description: "My areas of expertise."
-    },
-    languages: {
-      name: "English, Sinhala, Tamil",
-      description: "Languages I'm fluent in."
-    },
-    writings: {
-      name: "Blogs & Articles",
-      description: "I enjoy writing on various tech topics.",
-      writing_platforms: [
-        {
-          name: "Medium",
-          link: "https://medium.com/@lakshanrukantha"
-        },
-        {
-          name: "Dev.to",
-          link: "https://dev.to/lakshanrukantha"
-        }
-      ]
-    },
-    hobbies: {
-      name: "Programming, Travelling, Photography",
-      description: "My favorite leisure activities."
+    {
+      name: "Dev.to",
+      link: "https://dev.to/lakshanrukantha"
     }
-  }
+  ],
+  hobbies: "Programming, Traveling, Photography"
 };
-
-console.log("Title:", myDetails.title);
-console.log("Info:", myDetails.info);
-console.log("Data:", myDetails.data);
 
 ```
 
