@@ -17,7 +17,8 @@
 ```typescript
 
 const myDetails = {
-  title: "Lakshan Rukantha",
+  name: "Lakshan Rukantha",
+  title: "Undergraduate (1st Year) | Self-Taught Software Engineer & DevOps Enthusiast",
   university: "NSBM Green University",
   degree: "BSc (Hons) in Software Engineering",
   machine: "Asus Vivobook 15 - Ryzen 7",
