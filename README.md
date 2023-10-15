@@ -18,9 +18,9 @@
 
 const myDetails = {
   name: "Lakshan Rukantha",
-  title: "Undergraduate (1st Year) | Self-Taught Software Engineer & DevOps Enthusiast",
+  title: "Self-Taught Software Engineer & DevOps Enthusiast",
   university: "NSBM Green University",
-  degree: "BSc (Hons) in Software Engineering",
+  degree: "BSc (Hons) in Software Engineering (1st Year UG)",
   machine: "Asus Vivobook 15 - Ryzen 7",
   editor: "Visual Studio Code",
   platforms: "Web, Mobile, CLI",
