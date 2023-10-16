@@ -5,12 +5,8 @@
 </div>
 
 # <p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me, Lakshan Rukantha.
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Full+Stack+Developer;UI%2FUX+Designer;Crypto+Enthusiast)](https://git.io/typing-svg)
-
-</div>
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;DevOps+Enthusiast;UI%2FUX+Engineer;Software+Engineering+Undergraduate)
 
 <div>
 
