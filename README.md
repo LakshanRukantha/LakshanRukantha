@@ -1,10 +1,8 @@
 <div align="center">
 
-<img align="center" style="height:150px" src="https://res.cloudinary.com/ddnv9dswe/image/upload/v1635613646/20211030_223511_aaj48q.png">
+![github-banner](https://github.com/LakshanRukantha/LakshanRukantha/assets/64830641/6da6dd20-678c-4a8a-8307-449e0ee35d98)
 
 </div>
-
-# <p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me, Lakshan Rukantha.
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;DevOps+Enthusiast;UI%2FUX+Engineer;Software+Engineering+Undergraduate)
 
