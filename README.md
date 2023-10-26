@@ -112,11 +112,7 @@ const myDetails = {
 <!-- Random Dev Quote -->
 ### ✍️ Random Dev Quote
 
-<div align="center">
-
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
-
-</div>
 
 <hr/>
 
