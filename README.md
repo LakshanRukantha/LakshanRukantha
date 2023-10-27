@@ -1,12 +1,6 @@
-<div align="center">
-
 ![github-banner](https://github.com/LakshanRukantha/LakshanRukantha/assets/64830641/6da6dd20-678c-4a8a-8307-449e0ee35d98)
-
-</div>
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Software+Engineer;DevOps+Enthusiast;UI%2FUX+Engineer;Software+Engineering+Undergraduate)
-
-<div>
 
 ```typescript
 
@@ -36,8 +30,6 @@ const myDetails = {
 };
 
 ```
-
-</div>
 
 ## 📊 GitHub Stats
 
