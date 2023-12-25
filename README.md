@@ -70,6 +70,8 @@ const myDetails = {
 
 <details>
 <summary>View More</summary>
+
+- [My Battery](https://mybattery.vercel.app/) (Real-Time battery status previewer.)
   
 - [CutLink](https://cut-link.netlify.app/) (Link shortner web application.)
   
