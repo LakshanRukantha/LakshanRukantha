@@ -40,7 +40,7 @@ const myDetails = {
  </div>
   
 <!-- Contribution Graph -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanrukantha&theme=github-compact)
+![Lakshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanrukantha&theme=github-compact)
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack
