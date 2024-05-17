@@ -62,7 +62,7 @@ const myDetails = {
 
 - [API Of Blockchains](https://api-of-blockchains.vercel.app/) (Sample project using typescript and tailwind css.)
 
-- [QRCodeX](https://qrcodex.netlify.com/) (QR Code scanner and generator.)
+- [QRCodeX](https://qrcodex.netlify.app/) (QR Code scanner and generator.)
 
 - [MindMate](https://mind-mate.vercel.app/) (AI powered mental health support.)
 
